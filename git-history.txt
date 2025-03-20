@@ -1,3 +1,4 @@
+ NEW REPO
  2001  git clone git@github.com:shayleydon/testrepo.git
  2002  ls
  2003  cd testrepo/
@@ -6,4 +7,27 @@
  2007  git remote -v
  2010  git config --list
  2011  history
+
+
+BRANCHING
+2016  git branch
+ 2017  git branch new-branch
+ 2018  git checkout new-branch 
+ 2019  git branch
+ 2020  ls
+ 2021  git status
+ 2022  git add .
+ 2023  git status
+ 2024  git commit -m "add git history file"
+ 2025  git status
+ 2026  git branch 
+ 2027  git checkout main 
+ 2028  git branch 
+ 2029  git merge new-branch 
+ 2030  git status
+ 2031  git pull
+ 2032  git status
+ 2033  git push
+ 2034  git status
+ 2035  history
 
