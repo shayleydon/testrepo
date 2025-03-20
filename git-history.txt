@@ -1,0 +1,9 @@
+ 2001  git clone git@github.com:shayleydon/testrepo.git
+ 2002  ls
+ 2003  cd testrepo/
+ 2004  ls
+ 2005  git log
+ 2007  git remote -v
+ 2010  git config --list
+ 2011  history
+
